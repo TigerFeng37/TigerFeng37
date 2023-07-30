@@ -2,7 +2,7 @@
 
 ### Hey there this is Yicheng (aka Fenguy)
 
-**I'm a NYC-based...**
+**🗽 I'm a NYC-based...**
 - UI/UX & Graphics Designer
 - Self-taught Front-End Dev
 - Photo/Video Enthusiast
@@ -18,6 +18,10 @@
 - 🖥️ Golang
 - 🇯🇵 Japanese
 - 🥛 Maimai *the rhythm game*
+
+**💼 I'm current working as**
+- Founding Partner & Designer at **X Fusor Design Labs**
+- Front-End Dev & Designer at **Castle Point Anime Convention**
 
 Feel free to DM me on [Instagram](https://www.instagram.com/tigerfeng_sh/) (about anything)
 <!--
