@@ -19,11 +19,13 @@
 - 🇯🇵 Japanese
 - 🥛 Maimai *the rhythm game*
 
+<!--
 **💼 I'm current working as**
 - Founding Partner & Designer at **X Fusor Design Labs**
 - Front-End Dev & Designer at **Castle Point Anime Convention**
 
 Feel free to DM me on [Instagram](https://www.instagram.com/tigerfeng_sh/) (about anything)
+-->
 <!--
 **TigerFeng37/TigerFeng37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
