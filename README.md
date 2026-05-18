@@ -3,15 +3,17 @@
 ### Hey there this is Yicheng (aka Fenguy)
 
 **🗽 I'm a NYC-based...**
-- UI/UX & Graphics Designer
-- Self-taught Front-End Dev
+- UI/UX & Product Designer
+- Front-end Design Engineer
 - Photo/Video Enthusiast
-- an Electronic Music Producer.
-- Student at Parsons School of Design.
+- Electronic Music Producer - 1.5M plays and counting!
+- Parsons School of Design Alum.
 
 **🔭 I’m currently working on**
 - 🗺️ A Geographically-accurate Track Map of Greater Tokyo
 - 📁 An Interactive NYC Subway/Transit Archive
+- 🤫 Stealth Building an Agentic B2B SaaS Product.
+- 📷 Working on my new photography site https://photos.feng.works
 - 🎵 Electronic & Vocaloid Music Projects
  
 **🌱 I’m currently learning**
