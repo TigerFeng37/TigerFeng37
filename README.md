@@ -12,8 +12,8 @@
 **🔭 I’m currently working on**
 - 🗺️ A Geographically-accurate Track Map of Greater Tokyo
 - 📁 An Interactive NYC Subway/Transit Archive
-- 🤫 Stealth Building an Agentic B2B SaaS Product.
 - 📷 Working on my new photography site https://photos.feng.works
+- 🕹️ A map and directory for the rhythm game maimai DX
 - 🎵 Electronic & Vocaloid Music Projects
  
 **🌱 I’m currently learning**
