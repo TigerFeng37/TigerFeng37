@@ -1,6 +1,6 @@
 # ようこそ！
 
-### Hey there this is Yicheng (aka Fenguy)
+### Hey there this is Yicheng
 
 **🗽 I'm a NYC-based...**
 - UI/UX & Product Designer
@@ -19,7 +19,7 @@
 **🌱 I’m currently learning**
 - 🖥️ Golang
 - 🇯🇵 Japanese
-- 🥛 Maimai *the rhythm game*
+- 🥛 Maimai DX *the rhythm game*
 
 <!--
 **💼 I'm current working as**
